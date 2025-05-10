@@ -1,4 +1,4 @@
-# Panduan Deploy Laravel di Ubuntu (PHP 8.1)
+# Panduan Deploy Laravel 10 di Ubuntu (PHP 8.1)
 
 Dokumen ini dibuat sebagai panduan untuk saya (atau siapa pun) yang ingin melakukan deploy aplikasi Laravel dari awal di server Ubuntu. 
 Panduan ini mengasumsikan bahwa kamu menggunakan Laravel versi 10 dengan PHP 8.1 dan server berbasis Ubuntu (20.04 atau lebih baru).
