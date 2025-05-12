@@ -1,7 +1,5 @@
 # Panduan Deploy Laravel 10 di Ubuntu (PHP 8.1)
 
-# Panduan Deploy Laravel di Ubuntu Server
-
 ## Kebutuhan Server
 
 - PHP 8.1 ✅
