@@ -1,4 +1,4 @@
-# Panduan Deploy Laravel 10 di Ubuntu (PHP 8.1)
+# Panduan Install Web Server Ubuntu 24.04 (LTS) x64
 
 ## Kebutuhan Server
 
